@@ -17,7 +17,7 @@ and it will succeed.
 ```
 # Note
 
-This is a deceiving algorithm.  If you don't have the actual algorithm memorized, I highly urge you to try implementing this once, without looking at the algorithm or code at all.  
+This can be a deceiving algorithm at first.  If you don't have the actual algorithm memorized, I highly urge you to try implementing this once, without looking at the algorithm or code at all.  
 
 It may surprise you, how easy it is to start out with a bad approach and end up with messy code to handle all of the corner cases.
 
