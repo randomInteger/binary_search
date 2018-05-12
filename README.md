@@ -15,6 +15,16 @@ Example:  ./binsearch.py 0 1024 1 1024
 This example would create a list from 0 to 1024 (inclusive) stepping by 1, searching for the value 1024
 and it will succeed.
 ```
+# Note
+
+This is a deceiving algorithm.  If you don't have the actual algorithm memorized, I highly urge you to try implementing this once, without looking at the algorithm or code at all.  
+
+It may surprise you, how easy it is to start out with a bad approach and end up with messy code to handle all of the corner cases.
+
+If you can get this right on the first try:  I'm not even mad, that is amazing.
+
+I will fully admit that my first time doing this cold (no internet, no books) I made it a lot more complex than it needed to be.  This is the cleanest implementation that I have written so far.
+
 # Example output, success:
 
 Create a list from 0-1024 (inclusive), stepping by 1's, looking for value 1023
