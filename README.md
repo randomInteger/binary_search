@@ -21,7 +21,8 @@ This is a deceiving algorithm.  If you don't have the actual algorithm memorized
 
 It may surprise you, how easy it is to start out with a bad approach and end up with messy code to handle all of the corner cases.
 
-If you can get this right on the first try:  I'm not even mad, that is amazing.
+If you can get this right on the first try without already knowing the exact algorithm:  
+```"I'm not even mad, that is amazing."```
 
 I will fully admit that my first time doing this cold (no internet, no books) I made it a lot more complex than it needed to be.  This is the cleanest implementation that I have written so far.
 
