@@ -21,8 +21,7 @@ This can be a deceiving algorithm at first.  If you don't have the actual algori
 
 It may surprise you, how easy it is to start out with a bad approach and end up with messy code to handle all of the corner cases.
 
-If you can get this right on the first try without already knowing the exact algorithm:  
-```"I'm not even mad, that is amazing."```
+If you can get this right on the first try without already knowing the exact algorithm, congratulations, you are in the upper 10% of professional coders according to Jon Bentley's "Programming Pearls":  https://www.amazon.com/Programming-Pearls-Press-Louis-Bentley/dp/0201103311/ref=sr_1_2?ie=UTF8&qid=1526106060&sr=8-2&keywords=programming+pearls
 
 I will fully admit that my first time doing this cold (no internet, no books) I made it a lot more complex than it needed to be.  This is the cleanest implementation that I have written so far.
 
